@@ -1,18 +1,14 @@
-# Vagas - Bahia
+# Me Contrata - Bahia
 
-Este repositório tem o intuito de divulgar vagas na área de tecnologia do estado da Bahia ou Remoto, via issues do GitHub.
+Este repositório tem o intuito de divulgar vagas na área de tecnologia do estado da Bahia ou Remoto, utilizando o GitHub Pages.
 
-Vagas disponíveis no link: [Vagas](https://github.com/joaldotavares/vagas-bahia/issues)
+Vagas disponíveis [Aqui](https://github.com/ssamuel07/me-contrata-ba/tree/gh-pages)
 
 ### Cadastrando uma vaga
 
-É bem simples, é só criar uma **issue** no link: [Nova issue](https://github.com/joaldotavares/vagas-bahia/issues/new?assignees=&labels=&template=issue-template.md&title=)
+É bem simples, é só usar copiar o conteudo de um [modelo](https://github.com/ssamuel07/me-contrata-ba/blob/gh-pages/modelo-vaga.md), criar um novo arquivo dentro dessa [branch](https://github.com/ssamuel07/me-contrata-ba/tree/gh-pages) e pronto. 
 
-A issue já possui um template específico, basta você editá-lo como desejar. No título da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa, exemplo:
-
-`[Cidade] Desenvolvedor Android [JUNIOR|PLENO|SENIOR] | ACME LTDA`
-
-Adicione _labels_ contendo o nível de experiência desejada e o formato de contração. 
+Essa branch já possui um template específico, basta você editá-lo como desejar. No título do arquivo, coloque o foco da vaga, o cargo e ooutra informação que ache importante, por exemplo "JAVA-SENIOR.md", isso vai ajudar na organização e na identificação das vagas.
 
 ### Código de Conduta
 Visando manter a transparência com todos os membros de nossa comunidade, além de obedecer o [Código de Conduta](https://github.com/joaldotavares/vagas-bahia/blob/master/docs/CODE_OF_CONDUCT.md), as vagas postadas nesse mural devem seguir as regras descritas a seguir.
@@ -26,5 +22,5 @@ O repositório é voltado para vagas no estado e remoto, como exceção. Existem
 #### As vagas devem ser reais
 Não serão aceitas empresas montando banco de currículos.
 
-#### O tempo de permanencia das issue
-Solicitamos que as issues sejam fechadas após o preenchimento da vaga. A fim de previnir o _não fechamento das issues_, todas as issues serão fechadas após 3 meses(90 dias), independende da vaga ter sido preenchida ou não. 
+#### O tempo de permanencia das vagas
+Solicitamos que as vagas sejam fechadas após o preenchimento. A fim de previnir o _acumulo excessivo e o não fechamento dos arquivos_, todas os arquivos de vagas serão retirados após 3 meses(90 dias), independende da vaga ter sido preenchida ou não.
